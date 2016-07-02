@@ -1,2 +1,2 @@
-# Final-Project
-Final Project for Java
+# Exercise
+Java Exercise for Final-Project
